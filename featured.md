@@ -56,8 +56,15 @@ Cons:
 
 [Wikipedia](https://en.wikipedia.org/wiki/List_of_lightweight_markup_languages) says that there are a few markup languages that support `class` and `id` which should be sufficient for the functionalities we wish:
 
-- *Markdown Extra* : seems supported by Pandoc Markdown
-- *MediaWiki* : ugly
-- *Org-mode* : Emacs stuff
-- *reStructuredText* : auto ids?
-- *Texy!* : ????
+- *Markdown Extra* : [Syntax](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)
+    - seems supported by Pandoc Markdown
+- *MediaWiki* : [Syntax](https://www.mediawiki.org/wiki/Help:Formatting)
+    - ugly
+- *Org-mode* : [Syntax](http://orgmode.org/org.html)
+    - emacs stuff
+- *reStructuredText* : [Syntax](http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html)
+    - auto ids?
+- *Texy!* : [Syntax](http://texy.info/en/syntax)
+    - weak support
+
+Everything is supported by Pandoc except *Texy!*.
