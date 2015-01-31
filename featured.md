@@ -17,11 +17,11 @@ The basic features the markup language should support:
 
 - table of contents
 - text blocks (XML style)
-    - <theorem> </theorem>
+    - `<theorem> </theorem>`
 - identifiers for blocks
-    - <definition name> </definition>
+    - `<definition name> </definition>`
 - attributes for blocks
-    - <lemma name, hidden=true> <lemma>
+    - `<lemma name, hidden=true> <lemma>`
 
 # Possibilities
 
