@@ -43,3 +43,11 @@ Pros:
 
 Cons:
 - Lack of support?
+
+## XML
+
+Pros:
+- Super powerful
+
+Cons:
+- Terrible to read or write
